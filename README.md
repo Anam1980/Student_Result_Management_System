@@ -1,4 +1,4 @@
-📌 Student_Result_Management_System :european_post_office:
+📌 STUDENT_RESULT_MANAGEMENT_SYSTEM :european_post_office:
 
 * This project is a Student Result Management System that allows teachers and administrators to manage student marks and generate reports on student performance. The system also includes a student interface where students can view their marksheets and track their academic progress over time.
 
@@ -15,7 +15,7 @@
 * MySQL
 
 :arrow_right: HOW TO USE
-:point_right: To use the Student Result Management System, follow these steps:
+* :point_right: To use the Student Result Management System, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Download the JDBC driver for MySQL and add it to your project's classpath.
@@ -37,10 +37,10 @@
  
 :arrow_right: RESOURCES
 * :point_right: I used some external resources for guidance :
-* [javaTpoint Java Swing Tutorial](https://www.javatpoint.com/java-swing).
-* [Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html).
-* [JDBC with MySQL](https://www.geeksforgeeks.org/java-database-connectivity-with-mysql/).
-* [MySQL JDBC Driver Download](https://dev.mysql.com/downloads/connector/j/).
+   * [javaTpoint Java Swing Tutorial](https://www.javatpoint.com/java-swing).
+   * [Oracle Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html).
+   * [JDBC with MySQL](https://www.geeksforgeeks.org/java-database-connectivity-with-mysql/).
+   * [MySQL JDBC Driver Download](https://dev.mysql.com/downloads/connector/j/).
  
 :arrow_right: SCREENSHOTS
 * :point_right: Screenshot of Main Interface
