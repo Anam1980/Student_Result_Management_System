@@ -10,7 +10,7 @@
 * User-friendly interface for teachers, administrators, and students
 
 
-### :arrow_right: Technologies Used
+### :arrow_right: TECHNOLOGIES USED
 * Java Swing
 * MySQL
 
