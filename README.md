@@ -41,7 +41,9 @@ I used some external resources for guidance :
 * [JDBC with MySQL](https://www.geeksforgeeks.org/java-database-connectivity-with-mysql/).
 * [MySQL JDBC Driver Download](https://dev.mysql.com/downloads/connector/j/).
  
+## SCREENSHOTS
 
+![Screenshot of  Main Interface](./srmimages/mainframe.png)
 
     ### ***Contributions are welcome! Feel free to submit pull requests or open issues!!***
 
