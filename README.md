@@ -42,8 +42,18 @@ I used some external resources for guidance :
 * [MySQL JDBC Driver Download](https://dev.mysql.com/downloads/connector/j/).
  
 ## SCREENSHOTS
+* Screenshot of Main Interface
+![Screenshot of Main Interface](./srmimages/mainframe.png)
+* Screenshot of Admin Portal Interface
+![Screenshot of Admin portal Interface](./srmimages/adminportal.png)
+* Screenshot of Student Portal Interface
+![Screenshot of Student portal Interface](./srmimages/studentportal.png)
+* Screenshot of Admin Home Interface
+![Screenshot of Admin Home Interface](./srmimages/adminhome.png)
+* Screenshot of Student Result Interface
+![Screenshot of Student Result Interface](./srmimages/studentresult.png)
 
-![Screenshot of  Main Interface](./srmimages/mainframe.png)
+
 
     ### ***Contributions are welcome! Feel free to submit pull requests or open issues!!***
 
