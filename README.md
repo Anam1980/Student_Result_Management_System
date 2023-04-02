@@ -13,7 +13,7 @@
 * Java Swing
 * MySQL
 
-## How to Use
+## HOW TO USE
 To use the Student Result Management System, follow these steps:
 
 1. Clone the repository to your local machine.
@@ -22,16 +22,17 @@ To use the Student Result Management System, follow these steps:
 4. Run the system using the main class file.
 5. Login as an administrator or student to access the respective interfaces.
 
-    ### Logging In
+### LOGGING IN
  When you run the system, you will be prompted to log in as either an administrator or a student.
 
-* To log in as an administrator, use the username "admin" and the password "pass".
-* To log in as a student, use the student ID and the password that were assigned to you by the administrator.
+* To log in as an admin, use the username "admin" and the password "pass".
+* To log in as a student, use the student roll number  that were assigned to you by the administrator.
 
 ## CODE STRUCTURE
 * The main components of the code are: 
-
-   
+    * adminindex: The main JFrame that displays the options for students and admin.
+    * studentadmin: It provides an interface for adding a unique roll number for each student, which can be used to access their marksheet.
+    * adminHome: It provides an interface for the admin to access the system using their username and password. 
  
 ## RESOURCES
 I used some external resources for guidance :
@@ -40,7 +41,6 @@ I used some external resources for guidance :
 * [JDBC with MySQL](https://www.geeksforgeeks.org/java-database-connectivity-with-mysql/).
 * [MySQL JDBC Driver Download](https://dev.mysql.com/downloads/connector/j/).
  
-
 
 
     ### ***Contributions are welcome! Feel free to submit pull requests or open issues!!***
