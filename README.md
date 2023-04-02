@@ -1,5 +1,5 @@
-📌 Student_Result_Management_System :european_post_office:
-👉 This project is a Student Result Management System that allows teachers and administrators to manage student marks and generate reports on student performance. The system also includes a student interface where students can view their marksheets and track their academic progress over time.
+📌* Student_Result_Management_System :european_post_office:
+* 👉 This project is a Student Result Management System that allows teachers and administrators to manage student marks and generate reports on student performance. The system also includes a student interface where students can view their marksheets and track their academic progress over time.
 
 :arrow_right: FEATURES
 * Admin interface for adding and managing student marks
