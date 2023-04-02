@@ -64,7 +64,7 @@ public class index extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(204, 85, 0));
         jPanel1.setForeground(new java.awt.Color(51, 102, 255));
-        jPanel1.setPreferredSize(new java.awt.Dimension(249, 500));
+        jPanel1.setPreferredSize(new java.awt.Dimension(137, 500));
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         addNewstudent.setBackground(new java.awt.Color(153, 255, 255));
