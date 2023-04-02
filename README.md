@@ -31,9 +31,9 @@
 
 ### :arrow_right: CODE STRUCTURE
 * :point_right: The main components of the code are: 
-    * 📍:**adminindex**: The main JFrame that displays the options for students and admin.
-    * 📍:**studentadmin**: It provides an interface for adding a unique roll number for each student, which can be used to access their marksheet.
-    * 📍:**adminHome**: It provides an interface for the admin to access the system using their username and password. 
+    * 📍**adminindex**: The main JFrame that displays the options for students and admin.
+    * 📍**studentadmin**: It provides an interface for adding a unique roll number for each student, which can be used to access their marksheet.
+    * 📍**adminHome**: It provides an interface for the admin to access the system using their username and password. 
  
 ### :arrow_right: RESOURCES
 * :point_right: I used some external resources for guidance :
