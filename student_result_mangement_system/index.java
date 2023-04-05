@@ -215,6 +215,11 @@ public class index extends javax.swing.JFrame {
         String rollno=jTextField1.getText();
         String name=jTextField2.getText();
         
+        
+         ButtonGroup buttonGroup = new ButtonGroup();
+        buttonGroup.add(jRadioButton1);
+        buttonGroup.add(jRadioButton2);
+        
         String gender = null;
         if (jRadioButton1.isSelected()) {
             gender = "Male";
@@ -226,9 +231,7 @@ public class index extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(null, "Please select a gender");
         } 
 
-        ButtonGroup buttonGroup = new ButtonGroup();
-        buttonGroup.add(jRadioButton1);
-        buttonGroup.add(jRadioButton2);
+       
             
              
         String fathername = jTextField3.getText();
