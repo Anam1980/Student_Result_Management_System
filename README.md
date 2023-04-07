@@ -55,7 +55,7 @@
 ![Screenshot of Student Result Interface](./srmimages/studentresult.png)
 
  
- ## :v: ***Contributions are welcome! Feel free to submit pull requests or open issues!!***:relaxed:
+ ## :v: ***Contributions are welcome! Feel free to submit pull requests or open issue and don't forget to give STAR🌟:!!***:relaxed:
 
  
 
